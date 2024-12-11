@@ -33,7 +33,7 @@
 				"content": [
 					{
 						"title": "Informacion",
-						"text": "Mapas: La Isla, Aberracion, Tierra Quemada\nTameo x10\nFarmeo x3\nIncubación x5\nMaduración x10,5\nExperiencia x1,5\nVelocidad de jugador activada\nVoladores en cuevas activados (No en AB)."
+						"text": "Mapas: The Island, Scorched Earth, Aberration.\nTameo x10\nFarmeo x3\nIncubación x5\nMaduración x10,5\nExperiencia x1,5\nVelocidad de jugador activada\nVoladores en cuevas activados (No en AB)."
 					}
 				]
 			},
@@ -44,7 +44,7 @@
 				"content": [
 					{
 						"title": "Casino",
-						"text": "Ubicacion: La Isla, coords: 89 - 90\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea metal y trofeos de criaturas por monedas para poder usar las maquinas.\nLos trofeos irán cambiando con el tiempo."
+						"text": "Ubicacion: The Island, coords: 89 - 90\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea metal y trofeos de criaturas por monedas para poder usar las maquinas.\nLos trofeos irán cambiando con el tiempo."
 					}
 				]
 			},
@@ -55,7 +55,7 @@
 				"content": [
 					{
 						"title": "Kit de Inicio",
-						"text": "Puedes reclamar un kit de inicio presionando F3, Cuadrado (PS5) o X (Xbox) mientras tu PJ sea menor a nivel 20.\nNo podras reclamar otro kit aunque crees un personaje nuevo."
+						"text": "Puedes reclamar un kit de inicio en la tienda de puntos del F1, manten apretado la tecla R (PC), Cuadrado (PS5) o X (Xbox) y busca la opcion que diga F1.\nNo podras reclamar otro kit aunque crees un personaje nuevo."
 					}
 				]
 			},
