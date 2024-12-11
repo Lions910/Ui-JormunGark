@@ -27,73 +27,46 @@
 				]
 			},
 			{
-				"layout": 1,
-				"buttontext": "Rules",
-				"imageurl": "https://i.imgur.com/aKHtggv.jpg",
-				"content": [
-					{
-						"title": "Server Rules",
-						"text": "No harassment, bullying, toxic behaviour or discrimination based on race, gender, religion, nationality, sexual orientation, age, or disability against any member or administrator of the server.\n\nNo spam.\n\nNames such as Human, 123, politics, offensives and similar are forbidden.\n\nThe character will be admin wiped.\n\nThe administration won't replace objects, dinos or structures lost due to bugs or game problems.\n\n NO Undermap, Dupp, etc.\n\nNO Inside.\n\nIt's forbidden abduct, move or lock up other players.\n\nA tribe can only have 1 base and 1 port (in case of not having access to water to breed aquatic creatures) per map.\nThe base can't take more space than the CS (set it to max range) feeding trough area while the port can't be bigger than the Egg Collector's area.\nIt's forbidden to build near other tribes, this will prevent massive lag in small areas.\nA tribe can only have 1 public TP (In the case a tribe has a port far away from their bases they can have a 2nd public TP) and 4 Behemoth Gates per base.\n\nDon't leave structures and dinos around the map, they will be destroyed.\n\nYou can use taming traps as long as they are public (unlocked) and their coords are posted on discord.\n\nNO Pillaring.\n\nIt's forbidden to build on rich resource spawns, specific dinos spawns and artifact caves and their entrances.\n\nTree sap taps and oil pumps must be unlocked and accessible for everyone, otherwise they will be destroyed.\n\nTo report someone you must send proff through a ticket on discord.\n\nIts forbidden to steal or kill another person's alpha, shiny, mini boss or taming in progress dino (it also applies if the person is knocking down the dino).\nThe first player that gets to the dino has priority over it.\nIf any problems about a dino arise the staff will confiscate or kill said dino.\n\nIf you have any doubts or suggestions you can post them on their respective channels on discord or just open a ticket.\n\nIF YOU PLAY ON THE SERVER THE ADMINISTRATION WILL ASSUME YOU KNOW THE RULES.\nNOT KNOWING THEM WON'T SAVE YOU FROM THE PUNISHMENTS.\n\nThese rules can be modified at any time by the administration."
-					}
-				]
-			},
-			{
-				"layout": 2,
+				"layout":1,
 				"buttontext": "Info",
 				"imageurl": "https://i.imgur.com/euepInN.png",
 				"content": [
 					{
 						"title": "Informacion",
 						"text": "Mapas: La Isla, Aberracion, Tierra Quemada\nTameo x10\nFarmeo x3\nIncubación x5\nMaduración x10,5\nExperiencia x1,5\nVelocidad de jugador activada\nVoladores en cuevas activados (No en AB)."
-					},
-					{
-						"title": "Information",
-						"text": "Maps: The Island, Aberation, Scorched Earth\nTaming x10\nFarming x3\nIncubation x5\nMaturation x10.5\nExperience x1.5\nPlayer speed lvl up ON\nFlyers on caves ON (not on AB)."
 					}
 				]
 			},
 			{
-				"layout": 2,
+				"layout": 1,
 				"buttontext": "Casino",
 				"imageurl": "https://i.imgur.com/Gb1RYW4.jpeg",
 				"content": [
 					{
 						"title": "Casino",
 						"text": "Ubicacion: La Isla, coords: 89 - 90\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea metal y trofeos de criaturas por monedas para poder usar las maquinas.\nLos trofeos irán cambiando con el tiempo."
-					},
-					{
-						"title": "Casino",
-						"text": "The Island, coords: 89 - 90\n\nAcquire special dinos and other exclusive objects on the casino.\n\nExchange metal and trophies for coins to play on the different machines.\nThe trophies will vary from time to time."
 					}
 				]
 			},
 			{
-				"layout": 2,
+				"layout": 1,
 				"buttontext": "Kit",
 				"imageurl": "https://i.imgur.com/ofktLU8.png",
 				"content": [
 					{
 						"title": "Kit de Inicio",
 						"text": "Puedes reclamar un kit de inicio presionando F3, Cuadrado (PS5) o X (Xbox) mientras tu PJ sea menor a nivel 20.\nNo podras reclamar otro kit aunque crees un personaje nuevo."
-					},
-					{
-						"title": "Starter Kit",
-						"text": "You can claim one starter kit pressing F3, Square (PS5) or X (Xbox) as long as your character is under LvL 20\nYou wont be able to claim another kit by creating a new character."
 					}
 				]
 			},
 			{
-				"layout": 2,
+				"layout": 1,
 				"buttontext": "NPCs",
 				"imageurl": "https://i.imgur.com/CQDuKDy.jpg",
 				"content": [
 					{
 						"title": "Informacion",
 						"text": "Mapas: Tierras Quemadas\nAqui podran encontrar grupos de humanos que crearan sus propios aldeas y caminaran por el mapa tameando o cazando dinos. Son neutrales hacia los jugadores siempre y cuando no sean atacados o no se les robe, pero vez en cuando atacarán tu base.\nPara evitar ataques solo debes colocar el *No NPC Atack Sign* alrededor de tu base."
-					},
-					{
-						"title": "Information",
-						"text": "Maps: Scorched Earth\nYou will find groups of humans building small villages or wandering across the map hunting and taming dinos. They are neutral to players unless atacked or robed, but they will attack your base every now and then.\nPlace some *No NPC Attack Sign* around your base to prevent attacks."
 					}
 				]
 			}
