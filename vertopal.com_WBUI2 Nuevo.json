@@ -33,7 +33,7 @@
 				"content": [
 					{
 						"title": "Informacion",
-						"text": "Mapas: The Island, Scorched Earth, Aberration.\nTameo x10\nFarmeo x3\nIncubación x5\nMaduración x10,5\nExperiencia x1,5\nVelocidad de jugador activada.\nVoladores en cuevas y Aberracion deshabilitados.\nPulsos maximos de mutacion: 2"
+						"text": "Mapas: The Island, Scorched Earth, Aberration y Extinction.\nTameo x10\nFarmeo x3\nIncubación x5\nMaduración x10,5\nExperiencia x1,5\nVelocidad de jugador activada.\nVoladores en cuevas y Aberration deshabilitados.\nPulsos maximos de mutacion: 2"
 					}
 				]
 			},
@@ -44,7 +44,7 @@
 				"content": [
 					{
 						"title": "Casino",
-						"text": "Ubicacion: The Island, coords: 89 - 90\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea metal y trofeos de criaturas por monedas para poder usar las maquinas.\nLos trofeos irán cambiando con el tiempo."
+						"text": "Ubicacion: The Island, coords: 89 - 90\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea ARKCOINS por monedas para poder usar las maquinas o completa misiones.\nLas misiones cambian diariamente."
 					}
 				]
 			},
