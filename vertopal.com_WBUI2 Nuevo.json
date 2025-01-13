@@ -33,7 +33,7 @@
 				"content": [
 					{
 						"title": "Informacion",
-						"text": "Mapas: The Island, Scorched Earth, Aberration y Extinction.\nTameo x10\nFarmeo x3\nIncubación x5\nMaduración x10,5\nExperiencia x1,5\nNivel Max Dino:\n• Normal: 150\n• Wyvern-Dragon de Roca: 190\n• Tek: 180\nVelocidad de jugador activada.\nVoladores en cuevas y Aberration deshabilitados.\nPulsos maximos de mutacion: 2"
+						"text": "Mapas: The Island, Scorched Earth, Aberration y Extinction.\nModalidad: PVE\nTameo x10\nFarmeo x3\nIncubación x5\nMaduración x10,5\nExperiencia x1,5\nNivel Max Dino:\n• Normal: 150\n• Wyvern-Dragon de Roca: 190\n• Tek: 180\nVelocidad de jugador activada.\nVoladores en cuevas y Aberration deshabilitados.\nPulsos maximos de mutacion: 2"
 					}
 				]
 			},
@@ -44,7 +44,7 @@
 				"content": [
 					{
 						"title": "Donaciones",
-						"text": "\n\nMantener todo esto funcionando no es gratis para nosotros y alguna ayudita siempre viene bien, por eso todo aquel que nos quiera ayudar es bienvenido y le estaremos agradecido.\nLa informacion sobre como donar esta disponible en discord.\n\nPAQUETES\n• 5€: 1 Dino Castrado con 50 puntos en todo (Wyverns y TEK con 55 puntos y Acuáticos con 60 puntos), 1 Dino de Hombro y pintar 1 dino.\n• 10€: 2 Dino Castrado con 50 puntos en todo (Wyverns y TEK con 55 puntos y Acuáticos con 60 puntos), 2 Dinos de Hombro y pintar 2 dinos.\n• 20€: 5 Dino Castrado con 50 puntos en todo (Wyverns y TEK con 55 puntos y Acuáticos con 60 puntos), 5 Dinos de Hombro y pintar 5 dinos.\n\n• 2€: Pintar 2 dinos.\n• 4€: Pintar 5 dinos."
+						"text": "\n\nMantener todo esto funcionando no es gratis para nosotros y alguna ayudita siempre viene bien, por eso todo aquel que nos quiera ayudar es bienvenido y le estaremos agradecido.\n\nPAQUETES\n• 5€: 1 Dino, 1 Dino de Hombro y pintar 1 dino.\n• 10€: 2 Dino, 2 Dinos de Hombro y pintar 2 dinos.\n• 20€: 5 Dino, 5 Dinos de Hombro y pintar 5 dinos.\n\n• 2€: Pintar 2 dinos.\n• 4€: Pintar 5 dinos.\n\nPara mas informacion sobre los paquetes de donacion y el como donar dirigirse al discord del servidor."
 					}
 				]
 			},
